@@ -1,0 +1,2 @@
+# FAQs
+GitHub Pages
